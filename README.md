@@ -1,14 +1,12 @@
 <div align="center">
     <h1>YourMIUI</h1>
 
-<!-- Source Link -->
+## [🔗 源码仓库](https://github.com/Meteor2333/YourMIUI)
 
 [![Android CI](https://github.com/Meteor2333/YourMIUI/actions/workflows/android.yml/badge.svg)](https://github.com/Meteor2333/YourMIUI/actions/workflows/android.yml)
 [![Github Release](https://img.shields.io/github/v/release/Meteor2333/YourMIUI)](https://github.com/Meteor2333/YourMIUI/releases)
 [![Release Downloads](https://img.shields.io/github/downloads/Meteor2333/YourMIUI/total)](https://github.com/Meteor2333/YourMIUI/releases)
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=Meteor2333_YourMIUI&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=Meteor2333_YourMIUI)
-
-## [🔗 源码仓库](https://github.com/Meteor2333/YourMIUI)
 </div>
 
 ## 介绍 
