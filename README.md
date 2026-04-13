@@ -4,8 +4,9 @@
 [![Release Downloads](https://img.shields.io/github/downloads/Meteor2333/YourMIUI/total)](https://github.com/Meteor2333/YourMIUI/releases)
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/abe17479e8bd4c7996c74a4a966593c1)](https://app.codacy.com/gh/Meteor2333/YourMIUI/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=Meteor2333_YourMIUI&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=Meteor2333_YourMIUI)
-n<a href="https://github.com/Meteor2333/YourMIUI" style="text-decoration:none;">
-<b style="font-size:16px;">🔗 源码仓库</b>
+
+<a href="https://github.com/Meteor2333/YourMIUI" style="text-decoration:none;">
+  <b style="font-size:16px;">🔗 源码仓库</b>
 </a>
 
 ## 介绍 
