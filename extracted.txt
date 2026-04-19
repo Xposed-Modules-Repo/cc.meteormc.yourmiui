@@ -1,5 +1,4 @@
-一款优化 MIUI 系统中各种不友好功能的模块
-A module that improves various pain points in MIUI阻止结束特定软件的进程
+阻止结束特定软件的进程
 解除系统应用不允许关闭通知的限制
 修复传送门无法正常打开链接的问题
 隐藏应用商店中杂乱的赞助商应用推荐
