@@ -6,6 +6,7 @@ A module that improves various pain points in MIUI
 解除系统应用不允许关闭通知的限制
 修复传送门无法正常打开链接的问题
 隐藏应用商店中杂乱的赞助商应用推荐
+使手机在未解锁的状态下依然能够识别NFC卡片
 禁用应用安装器的安全检测
 取消设置中二次确认对话框的倒计时
 禁用手机管家中不重要的扫描项
@@ -15,3 +16,4 @@ A module that improves various pain points in MIUI
 禁止超级壁纸暂停
 移除多个系统应用的开屏广告
 编辑指纹快捷功能菜单项
+使软件的启动开屏画面正常显示
